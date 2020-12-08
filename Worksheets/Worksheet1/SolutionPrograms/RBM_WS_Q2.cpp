@@ -1,4 +1,5 @@
 //20201204
+// Updated 20201208
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -30,14 +31,6 @@ int main(){
     cin>>rB;
     cout<<"Enter the number of columns for Matrix B"<<endl;
     cin>>cB;
-    // for ( i = 0; i < rA; i++)
-    // {
-    //     for (j = 0; j < cA; j++)
-    //     {
-    //         cout<<MatrixA[i][j];
-    //     }
-        
-    // }
     if(cA == rB){
     cout<<"Enter the values of Matrix A"<<endl;
     for ( i = 0; i < rA; i++)
@@ -58,10 +51,11 @@ int main(){
         
     }
 
-    for (i = 0; i < rB; i++)
+    for (i = 0; i < rA; i++)
     {
-        for ( j = 0; j < cA ; j++)
+        for ( j = 0; j < cB ; j++)
         {
+            MatrixC[i][j] = 0;// This line was previously not in the code and because of this some test cases were failing
             for ( k = 0; k < cA; k++)
             {
                 MatrixC[i][j] += MatrixA[i][k]* MatrixB[k][j];
@@ -75,7 +69,7 @@ int main(){
     {
         for (j = 0; j < cB; j++)
         {
-            cout<<MatrixC[i][j]<<" ";
+            cout<< MatrixC[i][j] <<" ";
         }
         cout<<endl;
         
