@@ -1,9 +1,8 @@
 # RM-CodingTaskPhase
 This repository will be used to track my progress in the task phase 
 
-# TaskPhase Worksheet Solutions are here:-
-https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Worksheets
-# Progress Reports are here:- 
-https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/ProgressReports
-# Tinkercad circuits are here:-
-https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Tinkercad
+# TaskPhase [Worksheet Solutions](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Worksheets)
+
+# [Progress Reports](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/ProgressReports)
+
+# [Tinkercad circuits](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Tinkercad)
