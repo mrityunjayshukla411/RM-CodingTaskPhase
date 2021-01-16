@@ -41,4 +41,8 @@
       * [attach()](https://www.arduino.cc/reference/en/libraries/servo/attach/)
       * [write()](https://www.arduino.cc/reference/en/libraries/servo/write/)
       * [writeMicroseconds()](https://www.arduino.cc/reference/en/libraries/servo/writemicroseconds/)
-    * [Stepper](https://www.arduino.cc/en/Reference/Stepper)
+    * [Stepper](https://www.arduino.cc/en/Reference/Stepper)   
+   
+**Courses Completed**  
+
+  ![](Certificates/Algorithm%20Toolbox.jpg)
