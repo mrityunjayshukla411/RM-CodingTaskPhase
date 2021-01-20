@@ -8,7 +8,7 @@
 # [Tinkercad circuits](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Tinkercad)
 
 **My Projects**  
-  * Obstacle avoid Bot(2 wheels)    
+  * [Obstacle avoiding Bot(2 wheels)](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/My%20Projects/ObstacleAvoid)    
   
 
 **Topics Covered So far:-**
