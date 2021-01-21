@@ -19,24 +19,15 @@ void velocitiesOfWheels(double velocity,double angle,double omega){
     double radian=angle*(pi/180);
     double Vy = velocity*(cos(radian));
     double Vx = velocity*(sin(radian));
-    double V1 = velocityCalculator(Vy,Vx,135) + omega; 
-    double V2 = velocityCalculator(Vy,Vx,45) + omega; 
-    double V3 = velocityCalculator(Vy,Vx,315) + omega; 
-    double V4 = velocityCalculator(Vy,Vx,225) + omega; 
-    if (angle == 0 || int(angle)%90 == 0)
-    {
-    cout<<"V1:- "<<setprecision(6)<<2*V1<<endl;
-    cout<<"V2:- "<<2*V2<<endl;
-    cout<<"V3:- "<<2*V3<<endl;
-    cout<<"V4:- "<<2*V4<<endl;
-    }
-    else
-    {
+    int wa[] = {135,45,315,225};
+    double V1 = velocityCalculator(Vy,Vx,wa[0]) + omega; 
+    double V2 = velocityCalculator(Vy,Vx,wa[1]) + omega; 
+    double V3 = velocityCalculator(Vy,Vx,wa[2]) + omega; 
+    double V4 = velocityCalculator(Vy,Vx,wa[3]) + omega; 
     cout<<"V1:- "<<setprecision(6)<<V1<<endl;
     cout<<"V2:- "<<V2<<endl;
     cout<<"V3:- "<<V3<<endl;
     cout<<"V4:- "<<V4<<endl;
-    }
 }
 
 int main(){
