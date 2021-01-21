@@ -11,6 +11,9 @@
   * [Obstacle avoiding Bot(2 wheels)](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/My%20Projects/ObstacleAvoid)    
   
 **[Omni Wheel Robot Task](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/OmniDierectionalBot)**  
+**[TinkerCad Motor Motion Task Image](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/Tinkercad%20Circuits/DesirableMotion.png)**  
+
+**[TinkerCad Motor Motion Task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/ArduinoCodes/DesirableMotion/DesirableMotion.ino)**  
 
 **Topics Covered So far:-**
   * C++
