@@ -10,6 +10,7 @@
 **My Projects**  
   * [Obstacle avoiding Bot(2 wheels)](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/My%20Projects/ObstacleAvoid)    
   
+**[Omni Wheel Robot Task](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/OmniDierectionalBot)**  
 
 **Topics Covered So far:-**
   * C++
