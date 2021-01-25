@@ -2,9 +2,9 @@
 // Left side is considered backward
 // Up side is considered left
 // Down side is considered right
-# define trigOut1 3
+# define trigOut1 3  //Left Sensor
 #define echoInput1 2
-# define trigOut2 12
+# define trigOut2 12  // Right Sensor
 #define echoInput2 11
 int duration1 = 0;
 int distance1 = 0;
@@ -12,9 +12,9 @@ int distance1 = 0;
 int duration2 = 0;
 int distance2 = 0;
 
-int motor1Pin1 = 5;
+int motor1Pin1 = 5; //Left Motor
 int motor1Pin2 = 6;
-int motor2Pin1 = 9;
+int motor2Pin1 = 9; // Right Motor
 int motor2Pin2 = 10;
 char choice;
 void setup()
