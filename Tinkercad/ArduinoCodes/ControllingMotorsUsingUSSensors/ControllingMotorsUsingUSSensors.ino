@@ -45,15 +45,6 @@ void rotateLeft()
   digitalWrite(motor2Pin1, HIGH); 
   digitalWrite(motor2Pin2, LOW);
 }
-void stopBotAt20(int distance1,int distance2){
-moveForward();
-  if(distance1 == 20 && distance2==20){
-  digitalWrite(motor1Pin1, LOW); 
-  digitalWrite(motor1Pin2, LOW);
-  digitalWrite(motor2Pin1, LOW); 
-  digitalWrite(motor2Pin2, LOW);
-  }
-}
 void rotateRight()
 {
   digitalWrite(motor1Pin1, HIGH); 
@@ -61,8 +52,22 @@ void rotateRight()
   digitalWrite(motor2Pin1, LOW); 
   digitalWrite(motor2Pin2, HIGH);
 }
+void stopBotAt20(int distance1,int distance2){
+// In this function we move the bot forward till it is 20cm from the wall
+  moveForward();
+  if(distance1 == 20 && distance2==20){
+  digitalWrite(motor1Pin1, LOW); 
+  digitalWrite(motor1Pin2, LOW);
+  digitalWrite(motor2Pin1, LOW); 
+  digitalWrite(motor2Pin2, LOW);
+  }
+}
+
+
 bool alignBot(int distance1,int distance2)
 {
+  //In this function we are alligning the bot parallel to the bot and when that is done
+  // we return a true value so the bot can start moving forward till it's 20 cm from the wall
 if(distance1 > distance2){
       rotateRight();
     }
