@@ -37,6 +37,7 @@
     * Differential Drive
     * Holonomic Drive
     * Bluetooth Module HC-05
+    * Line Sensor Array
   * Functions and Libraries in Arduino IDE
     * [digitalWrite()](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/)
     * [analogWrite()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/)
