@@ -12,8 +12,11 @@
   
 **[Omni Wheel Robot Task](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/OmniDierectionalBot)**  
 **[TinkerCad Motor Motion Task Image](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/Tinkercad%20Circuits/DesirableMotion.png)**  
+**[TinkerCad Motor Motion Task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/ArduinoCodes/DesirableMotion/DesirableMotion.ino)**   
 
-**[TinkerCad Motor Motion Task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/ArduinoCodes/DesirableMotion/DesirableMotion.ino)**  
+**[TinkerCad Walldetecting task Image](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/Tinkercad%20Circuits/ControllingMotorsUsingUSsensor_LI.jpg)**  
+**[TinkerCad Walldetecting task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/ArduinoCodes/ControllingMotorsUsingUSSensors/ControllingMotorsUsingUSSensors.ino)**  
+
 
 **Topics Covered So far:-**
   * C++
