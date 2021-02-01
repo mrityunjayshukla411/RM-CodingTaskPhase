@@ -8,21 +8,22 @@
 # [Tinkercad circuits](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Tinkercad)
 
 **My Projects**  
-  * [Obstacle avoiding Bot(2 wheels)](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/My%20Projects/ObstacleAvoid)    
-  
-**[Omni Wheel Robot Task](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/OmniDierectionalBot)**  
-**[TinkerCad Motor Motion Task Image](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/Tinkercad%20Circuits/DesirableMotion.png)**  
-**[TinkerCad Motor Motion Task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/ArduinoCodes/DesirableMotion/DesirableMotion.ino)**   
+  * [Obstacle avoiding Bot(2 wheels)](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/My%20Projects/ObstacleAvoid)  
 
-**[TinkerCad Wall Detecting task Image](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/Tinkercad%20Circuits/ControllingMotorsUsingUSsensor_LI.jpg)**    
+**C++ Tasks**  
 
-**[TinkerCad Wall Detecting task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/ArduinoCodes/ControllingMotorsUsingUSSensors/ControllingMotorsUsingUSSensors.ino)**    
-
-
-**[TinkerCad Maze Solving Bot task Image](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/Tinkercad%20Circuits/mazeBreakCircuit.jpg)**  
-
-**[TinkerCad Maze Solving Bot task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Tinkercad/ArduinoCodes/mazeBreak)**
-
+  1) **[Omni Wheel Robot Task](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/OmniDierectionalBot)**  
+  2) **TinkerCad Motor Motion Task**  
+        * **[TinkerCad Motor Motion Task Image](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/Tinkercad%20Circuits/DesirableMotion.png)**  
+        * **[TinkerCad Motor Motion Task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/ArduinoCodes/DesirableMotion/DesirableMotion.ino)**
+      
+  3) **TinkerCad Wall Detecting task**  
+        * **[TinkerCad Wall Detecting task Image](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/Tinkercad%20Circuits/ControllingMotorsUsingUSsensor_LI.jpg)**  
+        * **[TinkerCad Wall Detecting task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/ArduinoCodes/ControllingMotorsUsingUSSensors/ControllingMotorsUsingUSSensors.ino)**  
+  4) **TinkerCad Maze Solving Bot task**
+        * **[TinkerCad Maze Solving Bot task Image](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/blob/main/Tinkercad/Tinkercad%20Circuits/mazeBreakCircuit.jpg)**  
+        * **[TinkerCad Maze Solving Bot task Code](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Tinkercad/ArduinoCodes/mazeBreak)**  
+   
 **Topics Covered So far:-**
   * C++
     * Functions
