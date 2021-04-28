@@ -62,7 +62,9 @@
       * [writeMicroseconds()](https://www.arduino.cc/reference/en/libraries/servo/writemicroseconds/)
     * [Stepper](https://www.arduino.cc/en/Reference/Stepper)   
    
- **[App Development](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Apps)**  
+ **[App Development](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/Apps)**    
+ 
+ **[Machine Learning](https://github.com/mrityunjayshukla411/RM-CodingTaskPhase/tree/main/MachineLearning)**
  
 **Courses Completed**  
 
